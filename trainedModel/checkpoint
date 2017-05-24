@@ -1,0 +1,2 @@
+model_checkpoint_path: "inflationModel"
+all_model_checkpoint_paths: "inflationModel"
