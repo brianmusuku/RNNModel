@@ -13,7 +13,7 @@ Tensorflow v1.0
 
 ## Running 
 
-To view attention on words, run model.py.
+To view attention on words, run moddel.py.
 
 ## License
 
